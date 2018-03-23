@@ -23,3 +23,7 @@ MYSQL_ROOT_PASSWORD=123456
 
 # elasticsearch 搜索
 ELASTICSEARCH_DATA=~/yii2/es
+
+
+# application_user
+APPLICATION_USER_NAME = cq
